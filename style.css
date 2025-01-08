@@ -1,0 +1,28 @@
+body {
+    background-color: LightSteelBlue; 
+}
+
+h2{
+	color:DarkBlue;
+	font-family:'Tahoma', sans-serif;
+	font-size:200%;
+}
+
+h1{
+	color:MidnightBlue;
+	font-family:'Tahoma', sans-serif;
+	font-size:250%;
+}
+
+p{
+	color:CornflowerBlue;
+	font-family:'Tahoma', sans-serif;
+	font-size:200%;
+}
+
+li
+{
+	color:CornflowerBlue;
+	font-family:'Brush Script MT', cursive;
+	font-size:200%;
+}
